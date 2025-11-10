@@ -14,3 +14,9 @@ https://github.com/ljhOfGithub/HistoFL
 https://github.com/ljhOfGithub/Patch-GCN
 
 https://github.com/ljhOfGithub/AdvMIL
+
+https://github.com/ljhOfGithub/HIPT
+
+https://github.com/ljhOfGithub/CLAM
+
+https://github.com/ljhOfGithub/WSISA
